@@ -1,0 +1,9 @@
+2023-10-26 17:50:11 INFO ====== WebDriver manager ======
+2023-10-26 17:50:14 INFO Get LATEST chromedriver version for google-chrome
+2023-10-26 17:50:14 INFO Get LATEST chromedriver version for google-chrome
+2023-10-26 17:50:14 INFO Driver [C:\Users\Natali\.wdm\drivers\chromedriver\win64\114.0.5735.90\chromedriver.exe] found in cache
+2023-10-26 17:50:17 INFO Test Starting3
+2023-10-26 17:50:19 INFO Send dasha87 to element //*[@id="login"]/div[1]/label/input
+2023-10-26 17:50:19 INFO Send 354282beb8 to element //*[@id="app"]/main/div/div/div[2]/h2
+2023-10-26 17:50:19 INFO Click login button
+2023-10-26 17:50:20 INFO Click login button
