@@ -1,0 +1,10 @@
+address: https://test-stand.gb.ru/login
+driver_path: C:\git\chrome\chromedriver.exe
+sleep_time: 5
+
+login: "dasha87"
+password: "354282beb8"
+name: "ivan"
+email: "ivan-rtk@mail.ru"
+content: "Москвичам рассказали о погоде в ближайшие дни
+Подробнее: https://www.m24.ru/news/obshchestvo/21102023/631638?utm_source=CopyBuf"
